@@ -1,0 +1,22 @@
+/* LOGIN */
+.login-wrapper {
+  height: 100vh;
+  background: linear-gradient(to right, #fa0580, #f4730b);
+}
+.login,
+.registration {
+  width: 400px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  background: white;
+}
+a {
+  text-decoration: none !important;
+  color: white;
+}
+.login-wrapper a{
+  color: blue;
+}
+.modal-dialog a{
+  color: black;
+}
